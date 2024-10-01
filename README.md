@@ -24,7 +24,7 @@ If there are multiple parameter settings for different experiments, the details 
 - `run_simu_random_features.py`: Ridgeless on random features with varying data aspect ratios (Figure 17)
 
 
-## Experiment 3: Degrees of freedom comparisons
+### Experiment 3: Degrees of freedom comparisons
 This requires running the following scripts used in the previous experiments with different parameters (Figures 7-10):
 - `run_simu_ridge.py`
 - `run_simu_rf.py`
